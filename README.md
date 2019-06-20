@@ -1,8 +1,10 @@
 # Zadanie 25.3
 
-## Inicjalizacja: 
+## Inicjalization: 
 1. Run `npm install` to setup modules.
 2. Run `nodemon server.js` to run.
+
+## Endpoints: 
 
 ### Get data
 * URL:  /getNote
